@@ -10,7 +10,7 @@ Welcome to EmoSense – an intelligent web app that detects human emotions from 
 
 ---
 
-#📌 Project Highlights
+📌 Project Highlights
 
 - 🎙️ Accepts audio input in `.wav` or `.mp3` formats
 - 🔊 Extracts 40 MFCC features using `librosa`
@@ -23,7 +23,7 @@ Welcome to EmoSense – an intelligent web app that detects human emotions from 
 
 ---
 
-## 🧠 Detected Emotions
+ 🧠 Detected Emotions
 
 EmoSense can recognize **8 distinct emotions**:
 
@@ -38,7 +38,7 @@ EmoSense can recognize **8 distinct emotions**:
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 | Tool | Role |
 |------|------|
@@ -52,5 +52,6 @@ EmoSense can recognize **8 distinct emotions**:
 
 ---
 
-## 📁 Repository Structure
+
+📁 Repository Structure
 
